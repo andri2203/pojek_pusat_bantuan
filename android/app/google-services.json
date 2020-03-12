@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422198886353",
+    "firebase_url": "https://pusat-bantuan.firebaseio.com",
+    "project_id": "pusat-bantuan",
+    "storage_bucket": "pusat-bantuan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422198886353:android:2c906a7d835672ea45eaf0",
+        "android_client_info": {
+          "package_name": "com.example.pusat_bantuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422198886353-6lsc3h22kaf76ri3a0j4um3qr629kpib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pusat_bantuan",
+            "certificate_hash": "670f708f9fbda1eec45c4bae148d2277d5a2b45b"
+          }
+        },
+        {
+          "client_id": "422198886353-2gc989h4v9k1fqr9ob5g0feb2n3e5hfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK75BK9diSyJuNU7cZO3TomcA1cuZZVBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422198886353-2gc989h4v9k1fqr9ob5g0feb2n3e5hfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
